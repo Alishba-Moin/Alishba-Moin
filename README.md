@@ -1,6 +1,6 @@
 ![logo](https://github.com/Alishba-Moin/Alishba-Moin/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Alishba</h1>
-<h3 align="center">Aspiring AI Enthusiast | Graphic Design & Web Development Apprentice | Proficient in HTML, CSS, JavaScript, TypeScript, Next.js, React.js</h3>
+<h3 align="center">🌟 Aspiring AI Enthusiast | 🎨 Graphic Design & Web Development Apprentice | 💻 Proficient in HTML, CSS, JavaScript, TypeScript, Next.js, React.js 🌐</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alishba-moin&label=Profile%20views&color=0e75b6&style=flat" alt="alishba-moin" /> </p>
 
