@@ -1,145 +1,163 @@
-<h1 align="center">Hi, I'm Alishba</h1>
+<!-- BANNER -->
+<div align="center">
 
-<h3 align="center">
-Full-Stack Developer | AI-Driven Web Engineer | Agentic AI & RAG Systems
-</h3>
+<img width="100%" alt="Alishba Moin banner" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,55:4C1D95,100:8B5CF6&section=header&text=Alishba%20Moin&fontSize=46&fontColor=FFFFFF&fontAlignY=40&desc=AI%20Engineer%20%7C%20Agentic%20AI%20Developer%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=62&descColor=E9D5FF" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=alishba-moin&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<h3>AI Engineer &nbsp;|&nbsp; Agentic AI Developer &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Forward Deployed Engineer (FDE)</h3>
 
-<hr/>
+<a href="https://alishba-s-portfolio-sigma.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/alishba-moin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
+<a href="mailto:alishbamoin0025@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
 
-<h3>About Me</h3>
+</div>
 
-<p>
-I am a Full-Stack Developer focused on building scalable, secure, and high-performance web applications.
-My work combines modern frontend engineering with robust backend systems and emerging AI technologies.
-</p>
+<br />
 
-<p>
-Currently expanding my expertise in Generative AI Engineering, Agentic AI workflows, and
-Retrieval-Augmented Generation (RAG) systems.
-</p>
+<!-- ABOUT -->
+## Hello, I'm Alishba
 
-<hr/>
+I'm a developer focused on building autonomous AI agents, agentic workflows, MCP integrations, and production-oriented AI applications. I enjoy combining AI engineering with modern full-stack technologies to solve practical problems.
 
-<h3>Languages & Tools</h3>
+- Building multi-agent systems and MCP-connected workflows with the OpenAI Agents SDK
+- Shipping the web layer around them with Next.js, TypeScript, FastAPI, and MongoDB
+- Designing human-in-the-loop approval steps so agents act with oversight
+- Open to Forward Deployed Engineer, AI Engineer, Agentic AI, and Full-Stack roles, as well as freelance AI agent projects
 
-<p align="left">
+<br />
 
-<!-- Programming -->
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
+<!-- SKILLS -->
+## Technical Skills
 
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
+**AI & Agentic AI**
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
+![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI%20Agents%20SDK-6D28D9?style=flat-square&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6D28D9?style=flat-square)
+![Autonomous Agents](https://img.shields.io/badge/Autonomous%20Agents-6D28D9?style=flat-square)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-6D28D9?style=flat-square)
+![Tool Calling](https://img.shields.io/badge/Tool%20Calling-6D28D9?style=flat-square)
+![Handoffs](https://img.shields.io/badge/Handoffs-6D28D9?style=flat-square)
+![Guardrails](https://img.shields.io/badge/Guardrails-6D28D9?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6D28D9?style=flat-square)
+![Context Engineering](https://img.shields.io/badge/Context%20Engineering-6D28D9?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6D28D9?style=flat-square)
+![Vector Embeddings](https://img.shields.io/badge/Vector%20Embeddings-6D28D9?style=flat-square)
 
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-</a>
+**AI Integrations & Automation**
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol%20(MCP)-4C1D95?style=flat-square)
+![MCP Server Integrations](https://img.shields.io/badge/MCP%20Server%20Integrations-4C1D95?style=flat-square)
+![AI Workflow Automation](https://img.shields.io/badge/AI%20Workflow%20Automation-4C1D95?style=flat-square)
+![HITL](https://img.shields.io/badge/Human--in--the--Loop%20(HITL)-4C1D95?style=flat-square)
+![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=flat-square&logo=gmail&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-4C1D95?style=flat-square&logo=whatsapp&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=flat-square&logo=linkedin&logoColor=white)
 
-<!-- Frontend -->
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
+**Frontend**
 
-<a href="https://nextjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-</a>
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React.js-111827?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-111827?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6)
 
+**Backend & Databases**
 
-<!-- Backend -->
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-</a>
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=009688)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-111827?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248)
+![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT%20Authentication-111827?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
-</a>
+**Tools & Platforms**
 
-<!-- Databases -->
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-</a>
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity%20CMS-111827?style=flat-square&logo=sanity&logoColor=F36458)
+![Stripe](https://img.shields.io/badge/Stripe-111827?style=flat-square&logo=stripe&logoColor=635BFF)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-111827?style=flat-square&logo=claude&logoColor=D97757)
+![Cursor](https://img.shields.io/badge/Cursor-111827?style=flat-square&logo=cursor&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-111827?style=flat-square&logo=googlegemini&logoColor=8E75B2)
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
+<br />
 
-<!-- Tools & Platforms -->
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
+<!-- FEATURED PROJECTS -->
+## Featured Projects
 
-<a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-</a>
+### CareerCompass
 
-<a href="https://vercel.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40" color="white"/>
-</a>
+A deterministic six-agent career guidance pipeline. It uses multi-agent orchestration and structured AI workflows to turn skill analysis into a clear plan.
 
-<a href="https://www.sanity.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sanity/sanity-original.svg" width="40" height="40"/>
-</a>
+- Six specialized agents run in a fixed, predictable order
+- Built with Next.js and TypeScript
 
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-111827?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Multi-Agent Pipeline](https://img.shields.io/badge/Multi--Agent%20Pipeline-6D28D9?style=flat-square)
 
-</p>
+<!-- TODO: replace both placeholders below with your real links, or delete the line you don't need -->
+[Repository](REPLACE_WITH_CAREERCOMPASS_REPO_URL) &nbsp;|&nbsp; [Live demo](REPLACE_WITH_CAREERCOMPASS_LIVE_URL)
 
-<hr/>
+### Personal AI Employee
 
-<h3>What I Build</h3>
+MCP-connected AI employee workflows that watch Gmail, WhatsApp, and LinkedIn and prepare actions for review.
 
-<ul>
-  <li>Modern full-stack web applications</li>
-  <li>SEO-optimized and SSR-based Next.js platforms</li>
-  <li>Secure authentication & API systems</li>
-  <li>AI-powered products using RAG & intelligent agents</li>
-  <li>CMS-driven and payment-enabled solutions</li>
-</ul>
+- Gmail, WhatsApp, and LinkedIn watchers that trigger agent workflows
+- Human approval gates, so every agent action is reviewed before it runs
 
-<hr/>
+![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI%20Agents%20SDK-6D28D9?style=flat-square&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=009688)
+![MCP](https://img.shields.io/badge/MCP-4C1D95?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
 
-<h3>Projects & Professional Presence</h3>
+<!-- TODO: replace both placeholders below with your real links, or delete the line you don't need -->
+[Repository](REPLACE_WITH_PERSONAL_AI_EMPLOYEE_REPO_URL) &nbsp;|&nbsp; [Live demo](REPLACE_WITH_PERSONAL_AI_EMPLOYEE_LIVE_URL)
 
-<p>
-All projects and professional updates are available here:
-</p>
+More projects are on my [portfolio](https://alishba-s-portfolio-sigma.vercel.app/).
 
-<p>
-<a href="https://www.linkedin.com/in/alishba-moin/" target="_blank">
-LinkedIn Profile
-</a>
-</p>
+<br />
 
-<hr/>
+<!-- GITHUB STATS -->
+## GitHub Stats
 
-<h3>Connect With Me</h3>
+<div align="center">
 
-<p align="left">
-<a href="https://linkedin.com/in/alishba-moin" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://www.instagram.com/alish.bamoin/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
-</p>
+<img height="170" alt="Alishba's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Alishba-Moin&show_icons=true&hide_border=false&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6&border_color=2D1B69&border_radius=12" />
+<img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alishba-Moin&layout=compact&langs_count=6&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_color=2D1B69&border_radius=12" />
 
-<hr/>
+<br />
 
-<h3>GitHub Stats</h3>
+<img width="100%" alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=Alishba-Moin&background=0D1117&border=2D1B69&ring=8B5CF6&fire=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=9CA3AF&stroke=2D1B69&hide_border=false&border_radius=12" />
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alishba-moin" />
-</p>
+</div>
+
+<br />
+
+<!-- CONNECT -->
+## Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/alishba-moin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://alishba-s-portfolio-sigma.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=A78BFA" /></a>
+<a href="mailto:alishbamoin0025@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
+
+</div>
+
+<br />
+
+<!-- CLOSING -->
+<div align="center">
+
+I build AI agents that are useful, controllable, and ready for real users. If you are hiring for Forward Deployed Engineer, AI Engineer, or Agentic AI work, or need an AI agent project built, I would like to hear from you.
+
+<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B5CF6,55:4C1D95,100:0D1117&section=footer" />
+
+</div>
